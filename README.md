@@ -101,4 +101,4 @@ This is a **portfolio project** for educational purposes only. No real transacti
 ---
 
 ### 🏆 **Built with Passion, Shared with the Community**  
-*"Travel should be easy. Booking should be effortless."* – QuickStay Team
+*"Travel should be easy. Booking should be effortless."* 
