@@ -49,17 +49,26 @@ QuickStay is a **full-featured hotel booking platform** built with the MERN stac
 
 ## 📸 **Sneak Peek**  
 
-### **Homepage – Find Your Perfect Stay**  
-![Homepage](./screenshots/home.png)  
+<h3><strong>Homepage – Find Your Perfect Stay</strong></h3>  
+<p align="center">
+  <img src="./client/screenshots/1.png" width="700" alt="Homepage"/>
+</p>
 
-### **Booking Flow – Secure & Simple**  
-![Booking](./screenshots/booking.png)  
+<h3><strong>Book Rooms – Secure & Simple</strong></h3>  
+<p align="center">
+  <img src="./client/screenshots/2.png" width="700" alt="Hotels"/>
+</p>
 
-### **Owner Dashboard – Manage Your Business**  
-![Dashboard](./screenshots/dashboard.png)  
+<h3><strong>Owner Dashboard – Manage Your Business</strong></h3>  
+<p align="center">
+  <img src="./client/screenshots/3.png" width="700" alt="Dashboard"/>
+</p>
 
-### **Mobile-Optimized Experience**  
-![Mobile View](./screenshots/mobile.png)  
+<h3><strong>User Booking History</strong></h3>  
+<p align="center">
+  <img src="./client/screenshots/4.png" width="700" alt="Booking History"/>
+</p>
+
 
 ---
 
